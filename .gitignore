@@ -1,0 +1,26 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments and tooling
+.venv/
+.venv-linux/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local data and logs
+*.db
+*.sqlite3
+*.log
+*.tmp
+
+# Local secrets
+.env
+.secrets.json
