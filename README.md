@@ -95,3 +95,8 @@ TELEGRAM_PROXY_URL=http://127.0.0.1:8080
 ```powershell
 python -B -m unittest discover -s tests -v
 ```
+
+Подробности настройки среды разработки и отправки изменений описаны в
+[CONTRIBUTING.md](CONTRIBUTING.md). Правила безопасного сообщения об уязвимостях
+находятся в [SECURITY.md](SECURITY.md). Проект распространяется по лицензии
+[MIT](LICENSE).
